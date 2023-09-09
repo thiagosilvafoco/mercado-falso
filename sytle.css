@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    outline: none;
+    
+}
+
+.jo{
+width: 100%;
+height: 2.4rem;
+}
+
+
+.letra{
+font-size: medium;
+}
+.conctat{
+font-size: 0.8rem;
+cursor: pointer;
+color: #4d4c4c;
+
+ }
+
+.container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+background-color:#e6e6e6 ;
+
+}
+
+.lego{
+padding-left: 6rem;
+}
+    
+header{
+    background-color: #fff059;
+    padding: 1rem 8rem 4rem 8rem;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+ }
+.a{
+font-size: 0.6rem;
+padding:3.3rem 0rem 3rem 0rem
+
+}
+.a .color-blue{
+ color: blue;   
+ font-size: 0.6rem;
+}
+
+.c {
+padding-top:7rem ;
+
+}
+
+.press{
+outline-style: none;
+}
+
+.Continuar{
+width: 100%;
+height: 2.5rem;
+margin-top: 1rem;
+background-color: #3483fa;
+color: #fff;
+border-radius: 0.25rem;
+border: 0;
+cursor: pointer;
+}
+
+.Criar{
+    width: 100%;
+    height: 2.5rem;
+    margin-top: 1rem;
+background-color: #fff;
+color: #3483fa;
+border: 0;
+border-radius: 0.25rem;
+cursor: pointer;
+
+}
+
+.helpar{
+
+    background-color: #fff;
+    color: #3483fa;
+    border: 0;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
+
+.Continuar:hover{
+background-color: #2468c8;
+transition: 0.25s;
+}
+
+.Criar:hover{
+background-color: #d2eaf0;
+transition: 250ms;
+}
+
+.box{
+height: 20rem;
+width: 20rem;
+border: 0.5px solid #dbcaca;;
+display: flex;
+flex-direction:column ;
+align-items:center;
+background-color: #fff;
+justify-content: space-between;
+padding:4rem 3.2rem 1rem 3.2rem;
+}
+.box-2{
+width: 20rem;
+
+border: 0.1px solid #dbcaca;;
+}
+.box-2:hover{
+background-color: #e6e6e6;
+}
+
+.helpar{
+width: 100%;
+height: 3rem;
+}
+.helpar:hover{
+    background-color: #e6e6e6;
+}
+
+.box-3{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;    
+background-color: #fff;
+width: 100%;
+height: 0.4rem;
+font-size: 0.7rem;
+}
+.d{
+color: #cfcccc;
+padding-bottom: 2rem;
+}
